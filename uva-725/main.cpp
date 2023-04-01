@@ -41,7 +41,7 @@ int main() {
             }
         }
         if (!existsSol) {
-            cout << "There are no solutions for 61." << endl;
+            cout << "There are no solutions for " << n << "." << endl;
         }
     }
     return 0;
